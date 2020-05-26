@@ -1,4 +1,4 @@
-# Nutanix Virtual MAchine Module for terraform
+# Nutanix Virtual Machine Module for terraform
 
 A Terraform module which allows creation and management of Nuatnix Virutal Machines.
 
